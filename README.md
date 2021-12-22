@@ -8,31 +8,31 @@ The basic idea is analyzing the Buisness Problem of Zomato to get a fair idea ab
 # Breakdown of this notebook:
 Loading the dataset: Load the data and import the libraries.
 Data Cleaning:
-Deleting redundant columns.
-Renaming the columns.
-Dropping duplicates.
-Cleaning individual columns.
-Remove the NaN values from the dataset
+1. Deleting redundant columns.
+2. Renaming the columns.
+3. Dropping duplicates.
+4. Cleaning individual columns.
+5. Remove the NaN values from the dataset
 #Some Transformations
 
 Regression Analysis:
-Linear Regression
-Decision Tree Regression
-Random Forest Regression
+1.Linear Regression
+2.Decision Tree Regression
+3.Random Forest Regression
 
 Data Visualization: 
 
-Using plots to find relations between the features.
-Restaurants delivering Online or not
-Restaurants allowing table booking or not
-Table booking Rate vs Rate
-Best Location
-Relation between Location and Rating
-Restaurant Type
-Gaussian Rest type and Rating
-Types of Services
-Relation between Type and Rating
-Cost of Restuarant
-No. of restaurants in a Location
-Restaurant type
-Most famous restaurant chains in Bengaluru
+1. Using plots to find relations between the features.
+2. Restaurants delivering Online or not
+3. Restaurants allowing table booking or not
+4. Table booking Rate vs Rate
+5. Best Location
+6. Relation between Location and Rating
+7. Restaurant Type
+8. Gaussian Rest type and Rating
+9. Types of Services
+10. Relation between Type and Rating
+11. Cost of Restuarant
+12. No. of restaurants in a Location
+13. Restaurant type
+14.Most famous restaurant chains in Bengaluru
