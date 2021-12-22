@@ -17,7 +17,9 @@ Data Cleaning:
 
 Regression Analysis:
 1.Linear Regression
+
 2.Decision Tree Regression
+
 3.Random Forest Regression
 
 Data Visualization: 
